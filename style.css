@@ -99,8 +99,8 @@ html{
     display: flex;
 }
 #pic img{
-    width: 575px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
 }
 #intro{
     display: flex;
